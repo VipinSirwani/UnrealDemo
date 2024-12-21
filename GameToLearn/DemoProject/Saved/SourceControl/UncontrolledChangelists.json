@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/DemoLevel.umap",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/Platform.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/EndOfLevelDoor.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/EnemySphere.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyCharacter.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyGameMode.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IA_Move.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IA_Look.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IMC_Default.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyPlayerController.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IA_Pause.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IA_UseObject.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/IA_JUMP.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/Orb.uasset",
+				"D:/UnrealProjects/GameToLearn/DemoProject/Content/MyContent/DemoLevel_BuiltData.uasset"
+			]
+		}
+	]
+}
